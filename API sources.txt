@@ -1,0 +1,20 @@
+https://rapidapi.com/ortegalex/api/horse-racing/
+    50/day - 10/min
+https://rapidapi.com/b365api-b365api-default/api/betsapi2/
+    24/day - 10/hr.
+https://rapidapi.com/arbitrage-bettors1-arbitrage-bettors-default/api/odds-api1/
+    50/month - 1000/hr
+https://rapidapi.com/mj565665/api/sports-betting-api/
+    25/day - 1000/hr
+https://rapidapi.com/theracingapi/api/the-racing-api1/
+    50/day - 120/min
+https://rapidapi.com/adamberlin112020/api/horse-racing-api1/
+    500/month - 1000/hr
+https://rapidapi.com/heathhoulahan/api/horse-racing-ai/
+    unlimited?
+https://rapidapi.com/willmahoney/api/uk-betting-odds/
+    500/month - 300/min
+https://rapidapi.com/ortegalex/api/horse-racing-usa/
+    50/day - 10/min
+
+Ladblokes api
